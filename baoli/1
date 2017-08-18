@@ -123,7 +123,7 @@
                        </li><li class="small_li_sitemap">|--                          <a href="/A09/product-bigclass-1.html" target="_blank">黄粑、粽子</a>  
                        </li><li class="small_li2_sitemap">|---                          <a href="/A09/product-smallclass-1.html" target="_blank">产品小类1_1</a>  
                        </li><li class="small_li2_sitemap">|---                          <a href="/A09/product-smallclass-2.html" target="_blank">产品小类1_2</a>  
-                       </li><li class="small_li2_sitemap">|---                          <a href="/A09/product-smallclass-3.html" target="_blank">产品小类1_3</a>  
+                       </li><li class="small_li2_sitemap">|---                          <a href="/A09/product-smallclass-3.html" target="_blank">鸡辣椒</a>  
                        </li><li class="small_li_sitemap">|--                          <a href="/A09/product-bigclass-2.html" target="_blank">皮蛋</a>  
                        </li><li class="small_li2_sitemap">|---                          <a href="/A09/product-smallclass2-1.html" target="_blank">产品小类2_1</a>  
                        </li><li class="small_li2_sitemap">|---                          <a href="/A09/product-smallclass2-2.html" target="_blank">产品小类2_2</a>  
@@ -157,7 +157,7 @@
     <li>
         <a class="biglink" href="/A09/product-bigclass-1.html">黄粑、粽子</a><span class="menu_head">+</span>
             <ul class="left_snav_ul menu_body">
-            <li><a href="/A09/product-smallclass-1.html">产品小类1_1</a></li><li><a href="/A09/product-smallclass-2.html">产品小类1_2</a></li><li><a href="/A09/product-smallclass-3.html">产品小类1_3</a></li>            </ul>
+            <li><a href="/A09/product-smallclass-1.html">产品小类1_1</a></li><li><a href="/A09/product-smallclass-2.html">产品小类1_2</a></li><li><a href="/A09/product-smallclass-3.html">鸡辣椒</a></li>            </ul>
     </li><li>
         <a class="biglink" href="/A09/product-bigclass-2.html">皮蛋</a><span class="menu_head">+</span>
             <ul class="left_snav_ul menu_body">
